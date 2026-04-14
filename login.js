@@ -25,5 +25,5 @@ rl.question("Username: ", (username) => {
         rl.close();
     });
 });
-    
+console.log("trigger codeql scan");
 
